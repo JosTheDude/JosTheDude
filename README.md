@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Jos 👋
 
 📫 Contacting Me: You can reach me through Discord! My Discord is Dank JosBot#1001, feel free to contact me through DMs or shoot me a friend request! (No guarantees I'll accept however, so DMs are preferred) They're always open!
 
