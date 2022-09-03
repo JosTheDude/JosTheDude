@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 📫 How to reach me: You can reach me through Discord! My Discord is Dank JosBot#1001, feel free to contact me through DMs or shoot me a friend request! (No guarantees I'll accept however, so DMs are preferred) They're always open!
+- 📫 Contacting Me: You can reach me through Discord! My Discord is Dank JosBot#1001, feel free to contact me through DMs or shoot me a friend request! (No guarantees I'll accept however, so DMs are preferred) They're always open!
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: I like cookies :)
+
+🔭 Portfolio & Website: https://joscodes.xyz
 
 <!--
 **JosTheDude/JosTheDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
