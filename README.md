@@ -1,8 +1,8 @@
 ### Hey I'm Jos! 👋
 
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=dark)</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=gotham" alt="JosTheDude GitHub Stats" />
 
-<p align="center">![](https://komarev.com/ghpvc/?username=JosTheDude)</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JosTheDude" alt="JosTheDude Profile View Counter" />
 
 <!--
 **JosTheDude/JosTheDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
