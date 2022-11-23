@@ -1,4 +1,4 @@
-### Hey I'm Jos! 👋
+<p align="center">### Hey There! 👋</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=gotham" alt="JosTheDude GitHub Stats" />
 
