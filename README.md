@@ -1,6 +1,6 @@
 ## 👋 hey there
 
-<p>💡 i'm a learning developer and devops engineer (mainly ubuntu) working in a variety of different programming languages</p>
+<p>💡 i'm a learning developer and devops engineer (mainly ubuntu, however i work with other os's as well) working in a variety of different programming languages</p>
 <p>🌍 i have experience with 50+ minecraft servers in many aspects such as development and management, as well as over 150+ satisfied commission clients</p>
 <p>🌱 i'm currently learning 🖥️ cybersecurity and relearning ☕ java</p>
 <p>🔭 i'm currently focusing on <b>meadowsmc</b> however i do many projects on the side as well</p>
