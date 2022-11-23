@@ -2,11 +2,11 @@
 
 I'm Jos (BM)! I'm just a young, student developer, who's learning development and DevOps in my freetime!
 
-<img src="https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=gotham" alt="JosTheDude GitHub Stats">
-
 <img src="https://komarev.com/ghpvc/?username=JosTheDude" alt="JosTheDude Profile View Counter">  [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows) [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)] [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Species](https://img.shields.io/badge/Species-Homo_Sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 
+<img src="https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=gotham" alt="JosTheDude GitHub Stats">
 
+[![Profile last updated](https://img.shields.io/github/last-commit/JosTheDude/JosTheDude/master?label=Last%20updated&style=flat)](https://github.com/JosTheDude/JosTheDude/commits)
 
 <!--
 **JosTheDude/JosTheDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
