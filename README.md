@@ -1,8 +1,10 @@
-<center> ### Hey There! 👋 </center>
+### Hey There! 👋
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=gotham" alt="JosTheDude GitHub Stats" />
+I'm Jos (BM)! I'm just a young, student developer, who's learning development and DevOps in my freetime!
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JosTheDude" alt="JosTheDude Profile View Counter" />
+<img src="https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=gotham" alt="JosTheDude GitHub Stats">
+
+<img src="https://komarev.com/ghpvc/?username=JosTheDude" alt="JosTheDude Profile View Counter">
 
 <!--
 **JosTheDude/JosTheDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
