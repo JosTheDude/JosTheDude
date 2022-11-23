@@ -1,10 +1,7 @@
-### Hi there! 👋
-
-📫 Contacting Me: My contact system is currently closed, will return at a later date :>
-
-😄 Pronouns: he/they
+### Hey I'm Jos! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=dark)
+![](https://komarev.com/ghpvc/?username=JosTheDude)
 
 <!--
 **JosTheDude/JosTheDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
