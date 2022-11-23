@@ -6,7 +6,7 @@ I'm Jos (BM)! I'm just a young, student developer, who's learning development an
 
 <img src="https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=gotham" alt="JosTheDude GitHub Stats">
 
-https://img.shields.io/github/last-commit/JosTheDude/JosTheDude
+<img src="https://img.shields.io/github/last-commit/JosTheDude/JosTheDude" alt="JosTheDude Commit Stats">
 
 <!--
 **JosTheDude/JosTheDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
