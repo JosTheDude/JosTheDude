@@ -4,7 +4,8 @@ I'm Jos (BM)! I'm just a young, student developer, who's learning development an
 
 <img src="https://github-readme-stats.vercel.app/api?username=JosTheDude&show_icons=true&theme=gotham" alt="JosTheDude GitHub Stats">
 
-<img src="https://komarev.com/ghpvc/?username=JosTheDude" alt="JosTheDude Profile View Counter">
+<img src="https://komarev.com/ghpvc/?username=JosTheDude" alt="JosTheDude Profile View Counter"> [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+
 
 <!--
 **JosTheDude/JosTheDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
