@@ -1,4 +1,4 @@
-## 👋 hey there
+## 👋 hey, i'm jos
 
 <p>💡 i'm a learning developer and devops engineer (mainly ubuntu, however i work with other os's as well) working with a variety of different programming languages</p>
 <p>🌍 i have experience with 50+ servers, companies, and networks in many aspects such as development and management, as well as over 150+ satisfied commission clients</p>
