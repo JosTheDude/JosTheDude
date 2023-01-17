@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=JosTheDude" alt="JosTheDude Profile View Counter">  [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows) [![WebEditor](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![MainEditor](https://img.shields.io/badge/IDE-InteliJ-blue?style=flat-square&logo=jetbrains&logoColor=white)](https://code.visualstudio.com/) ![YML](https://img.shields.io/badge/Setup-YML-blue?style=flat-square&logo=when-i-work&logoColor=white) ![dotFiles](https://img.shields.io/badge/Setup-DotFiles-blue?style=flat-square&logo=when-i-work&logoColor=white) [![Species](https://img.shields.io/badge/Species-Homo_Sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosTheDude&count_private=true)
+[![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=JosTheDude&count_private=true)
 
 <!--
 **JosTheDude/JosTheDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
