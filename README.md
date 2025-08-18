@@ -6,7 +6,7 @@
 </div>
 
 <p float="left">
-  <img align="left" width="335px" alt="cat photo left side" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
+  <img align="left" width="365px" alt="cat photo left side" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
   <p float="left">
     <div align="center">
       <p>
@@ -19,7 +19,7 @@
       <p>
         <a href="https://discord.com/users/481933134858944512"><img height="200px" src="https://lanyard.cnrad.dev/api/481933134858944512?bg=302C32&showDisplayName=false&hideDecoration=false&hideStatus=false&hideClan=true&hideProfile=false&hideBadges=false&hideActivity=false&hideSpotify=false" /></a>
         <p></p>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josthedude&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=495&card_height=200&background=302C33" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josthedude&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=465&card_height=200&background=302C33" alt="GitHub Streak" /></a>
       </p>
     </div>
   </p>
