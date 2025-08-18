@@ -6,7 +6,7 @@
 </div>
 
 <p float="left">
-  <img align="left" width="305px" src="https://github.com/user-attachments/assets/">
+  <img align="left" width="365px" src="https://github.com/JosTheDude/JosTheDude/blob/main/readme-img.png">
   <p float="left">
     <div align="center">
       <p>
@@ -17,9 +17,9 @@
       <a href="mailto:jos@jos.gg">email</a><br />
       <br />
       <p>
-        <a href="https://discord.com/users/481933134858944512"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/481933134858944512?bg=302C32"></a>
+        <a href="https://discord.com/users/481933134858944512"><img height="200px" src="https://lanyard.cnrad.dev/api/481933134858944512?bg=302C32&showDisplayName=false&hideDecoration=false&hideStatus=false&hideClan=true&hideProfile=false&hideBadges=false&hideActivity=false&hideSpotify=false" /></a>
         <p></p>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josthedude&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=495&card_height=200&background=302C33" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josthedude&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=495&card_height=175&background=302C33" alt="GitHub Streak" /></a>
       </p>
     </div>
   </p>
@@ -29,8 +29,8 @@
 
 <div align=center >
   <img src="https://komarev.com/ghpvc/?username=JosTheDude" alt="JosTheDude Profile View Counter"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue" alt="https://en.wikipedia.org/wiki/Windows"> <img src="https://img.shields.io/badge/IDE-IntelliJ-blue?style=flat-square&logo=jetbrains&logoColor=white" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"> <img src="https://img.shields.io/badge/Setup-YML-blue?style=flat-square&logo=when-i-work&logoColor=white" alt="YML"> <img src="https://img.shields.io/badge/Setup-DotFiles-blue?style=flat-square&logo=when-i-work&logoColor=white" alt="DotFiles"> <img src="https://img.shields.io/badge/Species-Homo_Sapiens-success?style=flat-square&logo=mailchimp&logoColor=white" alt="Homo Sapiens"> 
-
-  <p>
-    Looking to build a footing in one of the highest-growing spaces for the younger generation? <a href=https://starnova.dev/>Starnova Studios</a> specializes in building high quality & scalable experiences in video games. We'll work with you end-to-end to connect your business with the youth through the gaming space.
-  </p>
 </div>
+
+<p align="center">
+  Looking to connect to the youth through one of the fastest growing mediums around? Check out <a href=https://starnova.dev/>Starnova Studios</a>.
+</p>
