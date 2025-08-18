@@ -19,7 +19,7 @@
       <p>
         <a href="https://discord.com/users/481933134858944512"><img height="200px" src="https://lanyard.cnrad.dev/api/481933134858944512?bg=302C32&showDisplayName=false&hideDecoration=false&hideStatus=false&hideClan=true&hideProfile=false&hideBadges=false&hideActivity=false&hideSpotify=false" /></a>
         <p></p>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josthedude&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=495&card_height=175&background=302C33" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josthedude&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=495&card_height=200&background=302C33" alt="GitHub Streak" /></a>
       </p>
     </div>
   </p>
