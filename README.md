@@ -6,7 +6,7 @@
 </div>
 
 <p float="left">
-  <img align="left" width="365px" src="https://github.com/JosTheDude/JosTheDude/blob/main/readme-img.png">
+  <img align="left" width="365px" alt="cat photo left side" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
   <p float="left">
     <div align="center">
       <p>
