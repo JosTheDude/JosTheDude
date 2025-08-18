@@ -6,7 +6,10 @@
 </div>
 
 <p float="left">
-  <img align="left" width="365px" alt="cat photo left side" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
+  <div>
+    <img align="left" width="365px" alt="cat photo left side" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
+  </div>
+  </p>
   <p float="left">
     <div align="center">
       <p>
@@ -32,5 +35,5 @@
 </div>
 
 <p align="center">
-  Looking to connect to the youth through one of the fastest growing mediums around? Check out <a href=https://starnova.dev/>Starnova Studios</a>.
+  Looking to connect to the youth through one of the fastest growing advertising mediums around? Check out <a href=https://starnova.dev/>Starnova Studios</a>.
 </p>
