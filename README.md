@@ -14,7 +14,7 @@
     <div align="center">
       <p>
         <br />
-        17 ~ ugc & software engineer ~ 🍪
+        18 ~ ugc & software engineer ~ 🍪
         <br />
         <a href="https://discord.com/users/273524398483308549/">discord</a> ~ 
         <a href="https://jos.gg/">personal site</a> ~
