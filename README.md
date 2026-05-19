@@ -3,7 +3,6 @@
   <h1>
     👋 heyo! i'm jos!
   </h1>
-  <p>i'm a software engineer & game studio founder! i founded <a href="https://starnova.dev/">starnova studios</a>, work at <a href="https://hackclub.com/">hack club</a>, and study at <a href="https://www.scs.cmu.edu/">cs at carnegie mellon!</a></p>
 </div>
 
 <p float="left">
@@ -14,8 +13,13 @@
   <p float="left">
     <div align="center">
       <p>
+        your local software engineer & ugc engineer!
         <br />
-        18 ~ ugc & software engineer ~ 🍪
+        <br />
+        i founded <a href="https://starnova.dev/">starnova studios</a>, work at <a href="https://hackclub.com/">hack club</a>,
+        <br />
+        and study at <a href="https://www.scs.cmu.edu/">cs at carnegie mellon!</a>
+        <br />
         <br />
         <a href="https://discord.com/users/273524398483308549/">discord</a> ~ 
         <a href="https://jos.gg/">personal site</a> ~
