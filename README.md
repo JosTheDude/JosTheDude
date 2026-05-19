@@ -7,7 +7,7 @@
 
 <p float="left">
   <div>
-    <img align="left" width="450px" alt="cat photo left side" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
+    <img align="left" width="425rpx" alt="cat photo left side" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
   </div>
   </p>
   <p float="left">
