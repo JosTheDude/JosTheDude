@@ -3,7 +3,7 @@
   <h1>
     👋 heyo! i'm jos!
   </h1>
-  <p>i'm a software engineer & game studio founder! i founded <a href="https://starnova.dev/">starnova studios</a>, work at <a href="https://hackclub.com/">hack club</a>, and stdy at <a href="https://www.scs.cmu.edu/">carnegie mellon!</a></p>
+  <p>i'm a software engineer & game studio founder! i founded <a href="https://starnova.dev/">starnova studios</a>, work at <a href="https://hackclub.com/">hack club</a>, and study at <a href="https://www.scs.cmu.edu/">cs at carnegie mellon!</a></p>
 </div>
 
 <p float="left">
