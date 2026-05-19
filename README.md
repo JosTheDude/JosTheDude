@@ -13,7 +13,7 @@
   <p float="left">
     <div align="center">
       <p>
-        your local software engineer & ugc engineer!
+        your local software & ugc engineer!
         <br />
         <br />
         i founded <a href="https://starnova.dev/">starnova studios</a>, work at <a href="https://hackclub.com/">hack club</a>,
