@@ -3,6 +3,7 @@
   <h1>
     👋 heyo! i'm jos!
   </h1>
+  <p>i'm a software engineer & game studio founder! i founded <a href="https://starnova.dev/">starnova studios</a>, work at <a href="https://hackclub.com/">hack club</a>, and stdy at <a href="https://www.scs.cmu.edu/">carnegie mellon!</a></p>
 </div>
 
 <p float="left">
@@ -37,5 +38,4 @@
 </div>
 
 <p align="center">
-  Looking to connect to the youth through one of the fastest growing advertising mediums around? Check out <a href=https://starnova.dev/>Starnova Studios</a>.
 </p>
