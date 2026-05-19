@@ -22,7 +22,7 @@
         <br />
         <br />
         <a href="https://discord.com/users/273524398483308549/">discord</a> ~ 
-        <a href="https://jos.gg/">personal site</a> ~
+        <a href="https://jos.gg/">my personal site</a> ~
         <a href="mailto:jos@jos.gg">email</a>
         <br />
         <br />
